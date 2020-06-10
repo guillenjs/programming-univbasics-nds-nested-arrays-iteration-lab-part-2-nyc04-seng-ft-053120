@@ -2,7 +2,7 @@ def find_min_in_nested_arrays(src)
   # src will be an array of arrays of integers
   # Produce a new Array that contains the smallest number of each of the nested arrays
   results = []
-  #store the results of the 
+  #store the results of the
   src_index = 0
   #counter that will serve as index number in loop
   while src_index < src.count
