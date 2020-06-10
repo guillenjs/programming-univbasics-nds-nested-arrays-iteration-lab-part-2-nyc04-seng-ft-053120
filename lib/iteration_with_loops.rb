@@ -23,5 +23,5 @@ def find_min_in_nested_arrays(src)
   results << min_temp #put that value into the results array to form a larger array
   src_index += 1 #add one to counter of outer index
 end
-results
+results #once loops are done return final results
 end
